@@ -6,9 +6,9 @@ This project uses Jasmine to test the functionality of an RSS Feed.
 
 For a local version of the app, go to https://github.com/hconley6695/frontend-nanodegree-feedreader. Download or clone the repo. Open the index.html file in the browser and check out the passing tests.
 
-# Tests within this Project
+## Tests within this Project
 
-## RSS Feeds
+### RSS Feeds
 
 * Tests are defined.
 * Each feed has a defined URL.
