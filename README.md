@@ -8,7 +8,7 @@ For a local version of the app, go to https://github.com/hconley6695/frontend-na
 
 # Tests within this Project
 
-### RSS Feeds
+## RSS Feeds
 
 * Tests are defined.
 * Each feed has a defined URL.
